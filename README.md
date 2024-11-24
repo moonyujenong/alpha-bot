@@ -1,5 +1,8 @@
 # alphabot-publisher
 
+## 페이지 확인
+- URL 끝에 /about, mypage, launchpad, launchpad/detail, error, profileSettings, registerchannelguide 로 각 페이지 UI 확인이 가능합니다.
+
 ## 개발모드 실행
 
 yarn start
